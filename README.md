@@ -1,5 +1,8 @@
 # Unraid SMB Password Portal
 
+<img width="1313" height="835" alt="image" src="https://github.com/user-attachments/assets/6f5a0219-2bfb-41b1-92a3-af96b75de21b" />
+
+
 A small Flask-based Docker container that provides a simple self-service web page where Unraid SMB users can change their own Samba/SMB password.
 
 This is intended for Unraid systems where non-admin users need a safe way to change their SMB password without being given access to the Unraid web UI.
